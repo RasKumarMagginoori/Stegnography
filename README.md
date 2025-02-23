@@ -20,7 +20,17 @@ You can install the required libraries using pip:
 
 ```bash
 pip install opencv-python numpy
-##How to Use
+```
+How to Use
 Clone or Download: Clone this repository or download the Python script (.py file).
 
-Run the Script: Execute the Python script
+Run the Script: Execute the Python script.
+
+```Bash
+python your_script_name.py
+```
+## GITHUB LINK 
+```
+https://github.com/RasKumarMagginoori/Stegnography
+
+```
